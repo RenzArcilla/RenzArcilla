@@ -1,5 +1,5 @@
 ## Hi there, I'm Renz! Welcome to my GitHub profile👋!
-- Sophomore Computer Engineering student  
+- Sophomore Computer Engineering student at PUP Manila
 - Aspiring Data Engineer | Python, SQL, Pandas 
 
 ### Send me a message
